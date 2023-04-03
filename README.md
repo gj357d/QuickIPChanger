@@ -1,5 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/oliverbedi/QuickIPChanger/blob/main/QuickIPChanger.png?raw=true)
 
 
 # Quick IP Changer
