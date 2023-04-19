@@ -62,4 +62,4 @@ HKEY_CURRENT_USER\Software\QuickIPChanger
 When I didn't know how to proceed, I got help in the Discord group, thanks to:
  
 - nou[Splash]
-- https://discord.gg/autohotkey-11599302363617
+- [https://discord.gg/autohotkey-11599302363617](https://discord.com/invite/autohotkey-115993023636176902)
