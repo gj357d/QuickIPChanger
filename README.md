@@ -63,3 +63,26 @@ When I didn't know how to proceed, I got help in the Discord group, thanks to:
  
 - nou[Splash]
 - [https://discord.gg/autohotkey-11599302363617](https://discord.com/invite/autohotkey-115993023636176902)
+
+## Donate me
+
+BTC
+```
+bc1q2h5ndkf9uws3p8cyrmj85ykf23wd5ahq5v0wp8
+```
+ETH (ETH Network)
+```
+0x55A50063774133eD52A0A8f9464eC69Bd7275215
+```
+ATOM
+```
+cosmos1vumvckcxezpfm8fq2ctdkhmmheuhznqdd5n9fp
+```
+ADA (ADA Network)
+```
+addr1qy7wpxnlarr7ywhsqffk9fmfdqdrh4k7n47fem9xwljvyueuuzd8l6x8uga0qqjnv2nkj6q680tda8tunnk2valycfesmcc6ur
+```
+USDT (ETH Network)
+```
+0x55A50063774133eD52A0A8f9464eC69Bd7275215
+```
