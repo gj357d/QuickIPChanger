@@ -57,7 +57,7 @@ HKEY_CURRENT_USER\Software\QuickIPChanger
 
 ## Authors
 
-- [@gj357d]([https://github.com/gj357d)
+- [@gj357d][(https://github.com/gj357d)]
 
 When I didn't know how to proceed, I got help in the Discord group, thanks to:
  
